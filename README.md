@@ -45,10 +45,10 @@ Este tipo de tecnología ha emergido como una herramienta transformadora en el �
 Esta tecnología innovadora fusiona el mundo digital con el mundo real, desde simulaciones interactivas hasta experiencias inmersivas, el contenido de XR ha redefinido la forma en que se imparte, se interactúa y se aplica el conocimiento.
 
 Algunas de las formas en las que esta tecnología ayuda a los estudiantes:
-* Experiencias inmersivas* interactuar con elementos digitales superpuestos en el mundo real
-* Simulaciones en tres dimensiones, realmente valioso en campos como la medicina, ciencia y ingeniería.
-* Colaboración global, facilitar la colaboración en tiempo real entre estudiantes y educadores en diferentes partes del mundo.
-* Desarrollo de habilidades mediante simulaciones intensivas que recreen una situación real.
+* **Experiencias inmersivas** interactuar con elementos digitales superpuestos en el mundo real
+* **Simulaciones** en tres dimensiones, realmente valioso en campos como la medicina, ciencia y ingeniería.
+* **Colaboración global**, facilitar la colaboración en tiempo real entre estudiantes y educadores en diferentes partes del mundo.
+* **Desarrollo de habilidades** mediante simulaciones intensivas que recreen una situación real.
 
 Antes hemos comentando que esta tecnología es crucial en campos como la ingeniería o la medicina, y es que aplicado a este último campo nos va a permitir una serie de avances que sin duda alguna mejoraran la supervivencia y calidad de vida del ser humano. 
 
@@ -60,7 +60,7 @@ Por ejemplo:
 
 En la realidad extendida pueden converger un gran numero de medios diferentes, desde realidad virtual, aumentada y mixta pasando por imágenes, videos, simulaciones realizadas con software tridimensional o bidimensional. Además de visualizar y interaccionar los dispositivos de entrada/salida junto con sensores, dispositivos hápticos y otros personalizan la experiencia de usuario para elevarla.
 
-<iframe title="The Future of VR/AR &amp; Extended Reality in Healthcare | Rafael Grossmann at NextMed Health" src="https://www.youtube.com/embed/UmSIMBGwW_Y?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+[![The Future of VR/AR &amp; Extended Reality in Healthcare | Rafael Grossmann at NextMed Health](http://img.youtube.com/vi/UmSIMBGwW_Y/0.jpg)](http://www.youtube.com/watch?v=UmSIMBGwW_Y "The Future of VR/AR &amp; Extended Reality in Healthcare | Rafael Grossmann at NextMed Health")
 
 #### ¿Qué tipo de hibridación se puede identificar en este caso? (según Manovich)
 
