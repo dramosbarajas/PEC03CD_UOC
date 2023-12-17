@@ -1,5 +1,7 @@
 # PEC03CD_UOC
 
+![Portadaactividad](./assets/pec03.jpg)
+
 ## ¿Qué es la hibridación de medios?
 
 La hibridación de medios, según Lev Manovich, se refiere a la convergencia y mezcla de diferentes formas de medios en la era digital. Este concepto se basa en la idea de que las tecnologías digitales están unificando y convergiendo para fusionarse en la creación de nuevos medios. Manovich argumenta que la hibridación de medios no implica simplemente la coexistencia de diferentes formas de medios, sino la creación de nuevas formas que integran elementos de múltiples fuentes.
