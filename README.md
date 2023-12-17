@@ -24,6 +24,8 @@ La remediación, proceso por el cual los nuevos medios remedian o reinterpretan 
 Microsoft Whiteboard es una aplicación de colaboración lanzada en 2017 que permite a los usuarios crear y compartir contenido visual en tiempo real. Ofrece un lienzo virtual interactivo donde los usuarios pueden dibujar, escribir y agregar imágenes, con funciones táctiles y de lápiz.
 La aplicación se integra perfectamente dentro del ecosistema de Microsoft, este tipo de pizarras digitales fomenta trabajar de manera natural tal y como podrias hacerlo en un cuaderno pero de manera colaborativa. Es muy utilizada para brainstorming y reuniones donde ahorra mucho tiempo ya que se puede mostrar de manera muy grafica y visual aquello que se quiere transmitir.
 
+![MSWhiteboard](./assets/msWhiteboard1.png)
+
 Las aplicaciones de lienzo en blanco potencian la imaginación de las personas ya que es una aproximación natural al papel y lápiz que tanto se añora pero sin perder de vista que vivimos en un mundo deslocalizado y remoto donde necesitamos de la tecnología para trabajar.
 
 Los medios que se pueden utilizar en MSWhiteboard van desde lápices digitales que permiten dibujar a mano alzada, inserción de texto, formas, imágenes, notas adhesivas (tipo post-it). El uso de enlaces para incluir contenido en video y audio que nativamente no es soportado. Reglas y transportadores para dotar al trazo de mano alzada de un elemento que dibuje líneas y ángulos perfectos. La posibilidad de que varios usuarios en tiempo real desde distintas partes puedan estar colaborando juntos en el mismo lienzo.
