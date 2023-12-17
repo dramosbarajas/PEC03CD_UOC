@@ -52,6 +52,9 @@ Algunas de las formas en las que esta tecnología ayuda a los estudiantes:
 * **Colaboración global**, facilitar la colaboración en tiempo real entre estudiantes y educadores en diferentes partes del mundo.
 * **Desarrollo de habilidades** mediante simulaciones intensivas que recreen una situación real.
 
+![Ingeniería con realidad extendida](./assets/ing1.webp)
+> Créditos imagen:[www.zumoko.com](www.zumoko.com/augmented-reality-in-education/)
+
 Antes hemos comentando que esta tecnología es crucial en campos como la ingeniería o la medicina, y es que aplicado a este último campo nos va a permitir una serie de avances que sin duda alguna mejoraran la supervivencia y calidad de vida del ser humano. 
 
 Por ejemplo: 
