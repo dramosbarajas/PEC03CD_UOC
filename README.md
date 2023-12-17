@@ -63,6 +63,10 @@ Por ejemplo:
 * Planificación de cirugías, como si se tratase de un [**gemelo digital**](https://en.wikipedia.org/wiki/Digital_twin) con todas las pruebas y el diagnostico de un paciente se podría crear una simulación que permita planificar de manera detallada la realización de una intervención quirúrgica
 * Espacios inmersivos para rehabilitación y terapia que los pacientes pueden utilizar para mejorar y acelerar el proceso.
 
+![Realidad extendida en el campo de la medicina](./assets/ERHealt.jpg)
+> Créditos imagen:[www.cordis.europa.eu]([www.zumoko.com/augmented-reality-in-education/](https://cordis.europa.eu/article/id/429639-augmented-reality-advances-surgical-procedures))
+
+
 En la realidad extendida pueden converger un gran numero de medios diferentes, desde realidad virtual, aumentada y mixta pasando por imágenes, videos, simulaciones realizadas con software tridimensional o bidimensional. Además de visualizar y interaccionar los dispositivos de entrada/salida junto con sensores, dispositivos hápticos y otros personalizan la experiencia de usuario para elevarla.
 
 > Haz click para previsualizar el siguiente vídeo sobre los avances en el sector médico con ER [Click aquí si no se reproduce](https://www.youtube.com/watch?v=UmSIMBGwW_Y)
