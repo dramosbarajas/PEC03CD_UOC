@@ -59,6 +59,7 @@ Por ejemplo:
 En la realidad extendida pueden converger un gran numero de medios diferentes, desde realidad virtual, aumentada y mixta pasando por imágenes, videos, simulaciones realizadas con software tridimensional o bidimensional. Además de visualizar y interaccionar los dispositivos de entrada/salida junto con sensores, dispositivos hápticos y otros personalizan la experiencia de usuario para elevarla.
 
 <iframe title="The Future of VR/AR &amp; Extended Reality in Healthcare | Rafael Grossmann at NextMed Health" src="https://www.youtube.com/embed/UmSIMBGwW_Y?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
 #### ¿Qué tipo de hibridación se puede identificar en este caso? (según Manovich)
 
 En este claro y a diferencia del anterior esta clara que es una hibridación de medios, no queda ninguna duda con que pueda ser una remediación pues en este caso no se trata de una reinterpretación de un elemento ya creado. 
