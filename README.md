@@ -71,7 +71,7 @@ En este claro y a diferencia del anterior esta clara que es una hibridación de 
 La convergencia de diferentes medios que se han detallado anteriormente, junto con los espacios virtuales que pueden interactuar los usuarios y la colaboración de estos hacen que se puedan generar nuevas experiencias que permiten aplicarse a distintos campos. 
 
     
-Valoraciones personales y bibliografía
+#### Valoraciones personales y bibliografía
 
 Las pizarras digitales representan una evolución significativa en el ámbito educativo y profesional. Su capacidad para combinar la escritura tradicional con la tecnología digital proporciona una experiencia interactiva que fomenta la participación y el compromiso. Personalmente, encuentro que las pizarras digitales son herramientas versátiles que facilitan la enseñanza y el trabajo colaborativo. La posibilidad de integrar multimedia, realizar anotaciones en tiempo real y compartir contenido de manera instantánea las convierte en recursos valiosos.
 
