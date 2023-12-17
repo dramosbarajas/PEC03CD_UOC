@@ -96,4 +96,4 @@ El avance en la asignatura me permite ir enlazando y reconociendo diferentes asp
 - Zhang, James - Lu, Victor - Khanduja, Vikas (2023) [The impact of extended reality on surgery: a scoping review](https://pubmed.ncbi.nlm.nih.gov/36645474/)
 - Accenture () [Augmented for surgical success—a reality now](https://www.accenture.com/us-en/case-studies/technology/microsoft-hololens-surgery)
 
-Para la realización y ejecución de este trabajo he utilizado el software [Obsidian](https://obsidian.md/)el cual lo llevo usando desde hace tiempo para construir mi segundo cerebro y la aplicación [Canva](canva.com) para la creación de los elementos gráficos incluidos.
+Para la realización y ejecución de este trabajo he utilizado el software [Obsidian](https://obsidian.md/) el cual lo llevo usando desde hace tiempo para construir mi segundo cerebro y la aplicación [Canva](canva.com) para la creación de los elementos gráficos incluidos.
